@@ -1,20 +1,17 @@
 <script>
-import Header from "@/components/Header/header.vue";
+import Homes from "@/components/Homes/homes.vue";
 import {defineComponent} from "vue";
 
 export default defineComponent({
-  components: {Header}
+  components: {Homes},
 })
-
 
 </script>
 
-
 <template>
-<Header/>
+<Homes/>
 </template>
 
 <style>
-
 
 </style>
