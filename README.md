@@ -1,16 +1,16 @@
-# work-1
+# Workout 🏋️‍♂️💪
 
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
+# From || Eldorado.JM
+# My Social Media Network 👇🏻 <br/>
+<h2> <a href="https://www.instagram.com/e.jumashevv/">My Instagram</a></h2>
+<h2> <a href="https://www.facebook.com/eldoradojumashevv">My Facebook</a></h2>
+<h2> <a href="https://twitter.com/jumashevv996">My Twitter</a></h2>
+<h2> <a href="https://www.linkedin.com/in/eldorado-jumashevv-51a792259/">My LinkedIn</a>  </h2>
+<h1> I'm Front-End developer 👨🏻‍💻✨</h1>
+<h1> See other projects..🗂️ https://www.github.com/eldorado-22/ </br>
+<br/>  
+<hr/>
+# Project Setup <br/>  
 
 ```sh
 npm install
