@@ -8,6 +8,7 @@ export default {
       navThree: "pricing",
       navFour: "login",
     }
+
   }
 }
 
