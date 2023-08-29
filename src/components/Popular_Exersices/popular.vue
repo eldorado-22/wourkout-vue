@@ -8,7 +8,7 @@
       <div class="popular">
         <div class="popular-text">
           <h1>Popular Exercises</h1>
-          <span>see more  exercises</span>
+          <span>See more  exercises</span>
         </div>
         <div class="popular-block">
           <div class="popular-one">
